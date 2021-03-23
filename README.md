@@ -2,7 +2,7 @@
 <div class="reason container">
     <h1 class="text-center text-capitalize display-3">Why this ? &#129300;</h1>
    <h3 class="mt-3"> Hi all &#128075;</h3>
-   <h2>About Sahaayak</h2>
+   <h2>About Sahaayak<>
    <p>Sahaayak is an online platform which is enabled with certain features and valuable propects to improvise
       the traditional as welas virtual learning mode of education. This platform performs certain tasks, Some of them are listed below:
       <ul style="fon-size:15px;">
