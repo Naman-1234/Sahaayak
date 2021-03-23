@@ -5,7 +5,7 @@
    <h2>About Sahaayak</h2>
    <p>Sahaayak is an online platform which is enabled with certain features and valuable propects to improvise
       the traditional as welas virtual learning mode of education. This platform performs certain tasks, Some of them are listed below:
-      <ul style="font-size:15px;">
+      <ul style="fon-size:15px;">
           <li>
                 An Institute can setup an admin to take overall power to maintain a web system.
           </li>
